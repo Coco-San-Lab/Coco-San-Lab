@@ -1,5 +1,7 @@
+
 ## Hi there 👋
 
+I am currently learning AI, ML and Risk Quantification with FAIR.
 <!--
 **Coco-San-Lab/Coco-San-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
